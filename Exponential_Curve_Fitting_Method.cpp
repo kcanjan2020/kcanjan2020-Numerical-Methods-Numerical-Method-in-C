@@ -8,7 +8,7 @@ Exponential Curve Fitting Method :y=ae^bx
                        Y= A+bx --> Y=log(y) | A=log(a)
                        x:0   |1   |2    |3
                        y:1.05|2.10|3.85|8.30  =>Ans:y=1.043e^0.681x
-Author: Anjan KC
+Author: Anjan Kumar KC
 Date: feb 14, 2022
 **************************************************************** *******                           
 */

@@ -1,0 +1,3 @@
+D:/Computer Engineering Note/5th Sem/Numerical Methods/Numerical Method in C/cmake-build-debug/CMakeFiles/Numerical_Method_in_C.dir
+D:/Computer Engineering Note/5th Sem/Numerical Methods/Numerical Method in C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Computer Engineering Note/5th Sem/Numerical Methods/Numerical Method in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
