@@ -10,6 +10,8 @@ Exponential Curve Fitting Method :y=ae^bx
                        y:1.05|2.10|3.85|8.30  =>Ans:y=1.043e^0.681x
 Author: Anjan Kumar KC
 Date: feb 14, 2022
+Name : Anjan K.C
+Roll :06 
 **************************************************************** *******                           
 */
 #include<conio.h>
@@ -19,8 +21,6 @@ int main()
 {
 	float x[100],y[100],sumx=0,sumy=0,sumxx=0,sumxy=0,a,b;
 	int i,n;
-	printf("Name : Anjan K.C.\n");
-	printf("Roll :06 \n");
 	printf("Enter the Number of Data point:");
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
