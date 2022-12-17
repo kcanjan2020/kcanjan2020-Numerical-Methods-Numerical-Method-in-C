@@ -2,7 +2,7 @@
 #include<conio.h>  
 #include<math.h>  
 /*
-Evauate 1/1+x^2 using Simpsons 1/3 Rules
+Evauate : 1/1+x^2 using Simpsons 1/3 Rules
 Formula for Simpsons 1/3 Rule:I=h/3[(y0+yn)
                                 +4(y1+y3+y5....+yn-1)
                                 +2(y2+y4+y6+.....yn-2]

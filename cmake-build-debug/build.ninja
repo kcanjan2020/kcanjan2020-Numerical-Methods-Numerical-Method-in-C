@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Computer$ Engineering$ Note/5th$ Sem/Numerical$ Method
 
 build cmake_object_order_depends_target_Numerical_Method_in_C: phony || CMakeFiles/Numerical_Method_in_C.dir
 
-build CMakeFiles/Numerical_Method_in_C.dir/Exponential_Curve_Fitting_Method.cpp.obj: CXX_COMPILER__Numerical_Method_in_C_Debug D$:/Computer$ Engineering$ Note/5th$ Sem/Numerical$ Methods/Numerical$ Method$ in$ C/Exponential_Curve_Fitting_Method.cpp || cmake_object_order_depends_target_Numerical_Method_in_C
-  DEP_FILE = CMakeFiles\Numerical_Method_in_C.dir\Exponential_Curve_Fitting_Method.cpp.obj.d
+build CMakeFiles/Numerical_Method_in_C.dir/Simpsons_1-3_Rule.cpp.obj: CXX_COMPILER__Numerical_Method_in_C_Debug D$:/Computer$ Engineering$ Note/5th$ Sem/Numerical$ Methods/Numerical$ Method$ in$ C/Simpsons_1-3_Rule.cpp || cmake_object_order_depends_target_Numerical_Method_in_C
+  DEP_FILE = CMakeFiles\Numerical_Method_in_C.dir\Simpsons_1-3_Rule.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
   OBJECT_DIR = CMakeFiles\Numerical_Method_in_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Numerical_Method_in_C.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Numerical_Method_in_C.dir/Exponential_Curve_Fitting_Method.cpp.
 #############################################
 # Link the executable Numerical_Method_in_C.exe
 
-build Numerical_Method_in_C.exe: CXX_EXECUTABLE_LINKER__Numerical_Method_in_C_Debug CMakeFiles/Numerical_Method_in_C.dir/Exponential_Curve_Fitting_Method.cpp.obj
+build Numerical_Method_in_C.exe: CXX_EXECUTABLE_LINKER__Numerical_Method_in_C_Debug CMakeFiles/Numerical_Method_in_C.dir/Simpsons_1-3_Rule.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Numerical_Method_in_C.dir

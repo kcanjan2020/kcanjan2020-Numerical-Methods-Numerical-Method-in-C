@@ -1,5 +1,7 @@
 # ninja log v5
-3	621	6929013681297115	build.ninja	5beeaf3e305dab36
-0	5680	6929013681297115	build.ninja	5beeaf3e305dab36
+0	5680	6929707235193672	build.ninja	5beeaf3e305dab36
 1	3156	6929013738711928	CMakeFiles/Numerical_Method_in_C.dir/Exponential_Curve_Fitting_Method.cpp.obj	4018c2aec0ba1fa0
 3162	11191	6929013819110486	Numerical_Method_in_C.exe	f8c4996c44ced3be
+2	746	6929707235193672	build.ninja	5beeaf3e305dab36
+0	493	6929707244530499	CMakeFiles/Numerical_Method_in_C.dir/Simpsons_1-3_Rule.cpp.obj	ccda44c3f140b500
+494	1722	6929707256518537	Numerical_Method_in_C.exe	23576b76ad26420f
